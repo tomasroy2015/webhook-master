@@ -313,9 +313,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>52636</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50003</IISUrl>
-          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
-          <IISAppRootUrl>http://localhost:50003</IISAppRootUrl>
+          <IISUrl>http://localhost:50578</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
